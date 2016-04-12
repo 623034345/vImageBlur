@@ -2,6 +2,8 @@
 
 vImageBlur
 
+High Performance && Real-time rendering
+
 ![](https://img.alicdn.com/imgextra/i3/373400920/TB2Bb.bmVXXXXcfXpXXXXXXXXXX_!!373400920.gif)
 
 
