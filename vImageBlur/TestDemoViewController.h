@@ -1,0 +1,14 @@
+//
+//  TestDemoViewController.h
+//  vImageBlur
+//
+//  Created by Kael on 16/4/12.
+//  Copyright © 2016年 Kael. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface TestDemoViewController : UIViewController
+-(void)demo1;
+-(void)demo2;
+@end
